@@ -21,8 +21,7 @@
 title: Organ Boy
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  They say there's 1e6 fish in the sea, but I'm not a fish I'm a plant. 
-  25% of my kind are female and no one knows until we bloom.
+  They say there's 1e6 fish in the sea, but I'm not a fish I'm a plant.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
